@@ -1,2 +1,0 @@
-# ecotone
-Created with CodeSandbox
